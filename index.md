@@ -1,3 +1,7 @@
+---
+title: "my resume"
+---
+
 # Alex Kitt
 
 Qualifications:
