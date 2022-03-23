@@ -1,5 +1,3 @@
-# Alex Kitt
-
 (204) 291-2015 · kitta@myumanitoba.ca · [linkedin.com/in/alex-kitt](https://linkedin.com/in/alex-kitt) · [github.com/drkitt](https://github.com/drkitt)
 
 
