@@ -39,7 +39,9 @@ Etter's book recommends using a distributed version control system (DVCS) to tra
 
 8. Click on the link that says **choose your files**.
 
-9. Use your system's file browser to upload your Markdown resume.
+9. Use your system's file browser to upload your Markdown resume. You can also drag the file onto the page to upload it, like so:
+
+   ![Drag file demo](Drag%20file%20demo.gif)
 
 10. Click the green **Commit changes** button to add the resume to your repository. Feel free to add a message to your commit if there's any other information you think you might need to refer back to later, but the default message should suffice.
 
