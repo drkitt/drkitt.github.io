@@ -71,7 +71,8 @@ Your resume is ready to go! Navigate to `<your username>.github.io` in your web 
 ## Authors and Acknowledgements
 
 - Written by Alex Kitt for COMP 3040 at the University of Manitoba
-- Peer editing by Group 1 (Jarett Koley, Daniel Makarchuk, Nitya Seth, James Watts)
+- Peer editing by Group 1 (Jarett Koley, Daniel Makarchuk, Nitya Seth, and James Watts)
+- [Slate theme by Jason Costello](http://jekyllthemes.org/themes/slate/) used for resume
 
 ## FAQs
 
