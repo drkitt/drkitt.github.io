@@ -18,25 +18,43 @@ This tutorial will show you how to host your resume online using Markdown with G
 Etter's book recommends using a distributed version control system (DVCS) to track changes and collaborate. As explained in his book, technical writers should put documentation in the same repository as code in order to keep documentation and code in sync and allow developers to contribute to documentation. Etter further explains that developers generally prefer DVCS for their performance, ability to work offline, and ability to work concurrently on individual files, and thus technical writers should use it too. For this tutorial, we'll use the popular GitHub DVCS.
 
 1. Log in to GitHub.
-1. Navigate to your profile. On desktop, you can access it by clicking on your profile picture in the top right of the screen and clicking on **Your profile**. On mobile, you'll instead need to click on the hamburger menu icon in the lop left of the screen and click on your username.
-1. On your profile, click on the **Repositories** tab.
-1. Click the green **New** button.
-1. Name the repository `<your username>.github.io`. For example, my GitHub username is `drkitt`, so my repository is named `drkitt.github.io`.
-1. Click the green **Create repository** button. You can mess around with the other fields if you want, but they're all optional. Just make sure the repository is set to **Public** and not **Private**.
+
+2. Navigate to your profile. On a large screen, you can access it by clicking on your profile picture in the top right of the screen and clicking on **Your profile**. On a small screen, you'll instead need to click on the hamburger menu icon in the lop left of the screen and click on your username.
+
+   ![New repository demo](New repository demo.gif)
+
+3. On your profile, click on the **Repositories** tab.
+
+4. Click the green **New** button.
+
+5. Name the repository `<your username>.github.io`. For example, my GitHub username is `drkitt`, so my repository is named `drkitt.github.io`.
+
+6. Click the green **Create repository** button. You can mess around with the other fields if you want, but they're all optional. Just make sure the repository is set to **Public** and not **Private**.
 
 #### Adding files
 
-7. Now that you have a repository, you can add a file. On desktop, click on the **Add file** button (which is next to the green **Code** button) and click **Upload files**. On mobile, the process is similar, but the first button to press is labeled **...** instead; once you've found it, click on it and then click **Upload files**.
-8. Click on the link that says **choose your files** and use your system's file browser to upload your Markdown resume.
-9. Click the green **Commit changes** button to add the resume to your repository. Feel free to add a message to your commit if there's any other information you think you might need to refer back to later, but the default message should suffice.
+7. Now that you have a repository, you can add a file. On a large screen, click on the **Add file** button (which is next to the green **Code** button) and click **Upload files**. On a small screen, the process is similar, but the first button to press is labeled **...** instead; once you've found it, click on it and then click **Upload files**.
+
+   ![Upload file demo](Upload file demo.gif)
+
+8. Click on the link that says **choose your files**.
+
+9. Use your system's file browser to upload your Markdown resume.
+
+10. Click the green **Commit changes** button to add the resume to your repository. Feel free to add a message to your commit if there's any other information you think you might need to refer back to later, but the default message should suffice.
 
 #### Configuring the static site
 
 Etter's book praises static websites. Since they don't require databases, server-side logic, or any of the other complications of dynamic websites, they're fast, portable and don't require a sophisticated server setup. These qualities make them ideal for hosting documentation. Etter goes on to recommend using a static site generator, rather than creating the static site yourself, because the generator will take care of tedious tasks like writing HTML and CSS yourself. For this tutorial, we'll leverage GitHub Pages' built-in support for Jekyll, the most popular static site generator.
 
 10. Your resume is now in your your repository, but there are a couple more things you must configure before it's ready. Click on the **Settings** button, which should be at the end of the row of buttons near the top of the page (labeled **Code**, **Issues**, **Pull requests**, etc.). If it isn't there, click on the three dots at the end of that row and the **Settings** button will appear.
+
+    ![Settings demo](Settings demo.gif)
+
 11. On the repository settings, access settings specific to GitHub Pages by clicking on the **Pages** button on the left side of the page.
+
 12. Under *Source*, select the `main` branch to ensure that the file you just uploaded gets displayed on the final page.
+
 13. Under *Theme Chooser*, click the **Choose a theme** button and look through the available themes. Once you've found one that you like, click the green **Select theme** button.
 
 #### That's all!
