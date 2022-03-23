@@ -21,7 +21,7 @@ Etter's book recommends using a distributed version control system (DVCS) to tra
 
 2. Navigate to your profile. On a large screen, you can access it by clicking on your profile picture in the top right of the screen and clicking on **Your profile**. On a small screen, you'll instead need to click on the hamburger menu icon in the lop left of the screen and click on your username.
 
-   ![New repository demo](New repository demo.gif)
+![New repository demo](New%20repository%20demo.gif)
 
 3. On your profile, click on the **Repositories** tab.
 
@@ -35,7 +35,7 @@ Etter's book recommends using a distributed version control system (DVCS) to tra
 
 7. Now that you have a repository, you can add a file. On a large screen, click on the **Add file** button (which is next to the green **Code** button) and click **Upload files**. On a small screen, the process is similar, but the first button to press is labeled **...** instead; once you've found it, click on it and then click **Upload files**.
 
-   ![Upload file demo](Upload file demo.gif)
+![Upload file demo](Upload%20file%20demo.gif)
 
 8. Click on the link that says **choose your files**.
 
@@ -49,7 +49,7 @@ Etter's book praises static websites. Since they don't require databases, server
 
 10. Your resume is now in your your repository, but there are a couple more things you must configure before it's ready. Click on the **Settings** button, which should be at the end of the row of buttons near the top of the page (labeled **Code**, **Issues**, **Pull requests**, etc.). If it isn't there, click on the three dots at the end of that row and the **Settings** button will appear.
 
-    ![Settings demo](Settings demo.gif)
+![Settings demo](Settings%20demo.gif)
 
 11. On the repository settings, access settings specific to GitHub Pages by clicking on the **Pages** button on the left side of the page.
 
